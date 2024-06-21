@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.jonathansteele.calculatorndk"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.jonathansteele.calculatorndk"
